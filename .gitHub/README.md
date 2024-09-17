@@ -21,7 +21,7 @@
    [![ALPHA](https://github-stats-alpha.vercel.app/api?username=TEAMPURVI "RAUSHAN")](https://github-stats-alpha.vercel.app/api?username=TEAMPURVI "RAUSHAN")
 
 
-GO TO [RELOAD.PY](https://github.com/TEAMPURVI/PURVI_MUSIC/blob/main/PURVIMUSIC/plugins/tools/reload.py) THEN CHANGE MY ID NUMBER 
+GO TO [RELOAD.PY](https://github.com/TEAMPURVI/PURVI_MUSIC/blob/main/BABYMUSIC/plugins/tools/reload.py) THEN CHANGE MY ID NUMBER 
 
 </p>
 ʀᴀᴜsʜᴀɴ
@@ -33,7 +33,7 @@ GO TO [RELOAD.PY](https://github.com/TEAMPURVI/PURVI_MUSIC/blob/main/PURVIMUSIC/
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Gunjan890/PURVIMUSIC"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Gunjan890/BABYMUSIC"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/TEAMPURVI/PURVI_MUSIC&branch=main&name=purvibot)
 
