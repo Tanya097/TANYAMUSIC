@@ -71,7 +71,7 @@ def stream_markup_timer(_, chat_id, played, dur):
                 text="⛦ ᴏᴡɴᴇʀ ❥", url=f"https://t.me/Ta_n_ya_07"
             ),
             InlineKeyboardButton(
-                text="⛦ ᴄʜᴀᴛ ❥", url=f"https://t.me/+TkkVwWjSqWc5MDc1"
+                text="⛦ ᴄʜᴀᴛ ❥", url=f"https://t.me/Bihar_police_bihar_daroga_bss"
             )
         ],
          [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -93,7 +93,7 @@ def stream_markup(_, chat_id):
                 text="⛦ ᴏᴡɴᴇʀ ❥", url=f"https://t.me/Ta_n_ya_07"
             ),
             InlineKeyboardButton(
-                text="⛦ ᴄʜᴀᴛ ❥", url=f"https://t.me/+TkkVwWjSqWc5MDc1"
+                text="⛦ ᴄʜᴀᴛ ❥", url=f"https://t.me/Bihar_police_bihar_daroga_bss"
             )
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
